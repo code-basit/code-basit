@@ -1,3 +1,4 @@
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -27,6 +28,30 @@
   </ul>
 </div>
 
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, Nodejs, Nestjs, React, React Native, Flutter, MongoDB, PostgreSQL, Primsa**
+
+- 🌱 I’m currently learning **Java, Spring Boot Framework.**
+
+- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS Certified Solutions Architect**
+
+- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+
+- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+
+- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+<!--Intro end-->
 
 
 <!--h1 without bottom border-->
