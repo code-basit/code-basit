@@ -60,6 +60,33 @@
   </a>
 </p>
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const abfCodes = {
+  pronouns: 'He' | 'Him',
+  code: ['javascript', 'typescript', 'java', 'php'],
+  askMeAbout: ['app dev', 'web dev', 'tech'],
+  technologies: {
+    backEnd: ['node.js', 'express', 'nest.js', 'java', 'spring boot'],
+    frontEnd: ['react', 'next', 'angular'],
+    mobileApp: ['Flutter', 'react-native'],
+    database: ['mongoDB', 'postgreSQL', 'mySql'],
+    serverless: ['mongo-realm', 'aws-lambda'],
+    devOps: ['AWS', 'Nginx', 'Docker'],
+    misc: ['Firebase', 'Socket.IO'],
+  },
+  architecture: [
+    'Serverless Architecture',
+    'microservices',
+    'event-driven',
+    'Single page applications',
+  ],
+  funFact:
+    'There are two ways to write error-free programs; only the third one works',
+};
+```
+
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
